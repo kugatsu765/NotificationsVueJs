@@ -13,7 +13,7 @@
     "vue": "^2.6.6"
   },
   "devDependencies": {
-    "gsap": "^2.1.2",
+    "gsap": "^3.6.0",
     "vuetify": "^1.5.5",
     "@vue/cli-plugin-babel": "^3.5.0",
     "@vue/cli-plugin-unit-jest": "^3.5.0",
